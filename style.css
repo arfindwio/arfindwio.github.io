@@ -95,6 +95,10 @@ a {
 	color: whitesmoke;
 }
 
+label a {
+	text-decoration: underline;
+}
+
 .banner {
 	height: 580px;
 	padding: 50px;
