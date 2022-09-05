@@ -188,11 +188,17 @@ a {
 	margin-top: 10px;
 	text-align: center;
 }
+
+
+
 .footer {
-	width: 100%;
 	padding: 30px;
 	background-color: black;
 	margin-top: 40px;
+}
+
+.footer .container {
+	width: 100%;
 }
 
 .footer .copyright {
